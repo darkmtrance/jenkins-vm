@@ -16,3 +16,5 @@ Jenkins Workshop 2
 done!
 
 ![Image2](Images/Screenshot_2.png)
+
+![Image3](Images/Screenshot_3.png)
