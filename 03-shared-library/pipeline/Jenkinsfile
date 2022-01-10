@@ -1,0 +1,6 @@
+@Library('jenkinsLibs') _
+dockerPipeline(
+    dockerfilePath: "02-first-pipeline/Dockerfile",
+    dockerImage: "darkmtrance/homer_page:1.0.0-${BUILD_ID}",
+    dockerContext: "02-first-pipeline"
+)

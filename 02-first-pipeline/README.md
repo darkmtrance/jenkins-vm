@@ -2,7 +2,7 @@
 
 reference: [Caos Binario](https://www.youtube.com/watch?v=oUTGnoQzciU&t=137s)
 
-Jenkins Workshop
+Jenkins Workshop 1
 
 ## prerequisites
 
@@ -19,3 +19,6 @@ sudo service jenkins restart
 
 ![Image1](Images/Screenshot_1.png)
 
+done!
+
+![Image2](Images/Screenshot_2.png)
