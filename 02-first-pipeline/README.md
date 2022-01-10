@@ -19,7 +19,3 @@ sudo service jenkins restart
 
 ![Image1](Images/Screenshot_1.png)
 
-
-
-
-
