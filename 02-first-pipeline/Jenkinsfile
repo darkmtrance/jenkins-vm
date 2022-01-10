@@ -5,7 +5,7 @@ pipeline {
         stage('docker build') {
             steps {
                 script {
-                    sh "docker build -f 02-primer-pipeline/Dockerfile -t darkmtrance/homer_page:1.0.0-${BUILD_ID} 02-primer-pipeline"
+                    sh "docker build -f 02-first-pipeline/Dockerfile -t darkmtrance/homer_page:1.0.0-${BUILD_ID} 02-first-pipeline"
                 }
             }
         }

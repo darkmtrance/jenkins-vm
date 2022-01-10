@@ -6,6 +6,7 @@ Jenkins Workshop
 
 ## prerequisites
 
+- Verify git in VM (this workshop in CentOS VM)
 - Install [docker](https://docs.docker.com/engine/install/centos/) in VM (this workshop in CentOS VM)
 - Add jenkins user to the docker group 
 
