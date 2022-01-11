@@ -19,6 +19,6 @@ sudo service jenkins restart
 
 ![Image1](Images/Screenshot_1.png)
 
-done!
-
 ![Image2](Images/Screenshot_2.png)
+
+done!
