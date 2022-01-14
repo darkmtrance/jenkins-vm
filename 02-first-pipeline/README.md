@@ -22,5 +22,3 @@ sudo service jenkins restart
 ![Image2](Images/Screenshot_2.png)
 
 done!
-
-
